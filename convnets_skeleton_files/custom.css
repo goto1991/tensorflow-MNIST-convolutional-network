@@ -1,0 +1,371 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 9 ]>              <html class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" xmlns:og="http://ogp.me/ns#" lang="en-gb" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+        <!-- CSS files are split up to support IE9 and below - http://blesscss.com/ -->
+	<!--[if gt IE 9]> -->
+            <link rel="stylesheet" href="/css/common.css">
+        <!-- <![endif]-->
+        <!--[if lte IE 9]>
+	    <link rel="stylesheet" href="/css/split/common-blessed1.css">
+<link rel="stylesheet" href="/css/split/common.css">
+        <![endif]-->
+        
+	<!-- IE8 and below also have a problem with multiple fonts in a single file -->
+        <!-- http://www.smashingmagazine.com/2012/07/avoiding-faux-weights-styles-google-web-fonts/ -->
+        <!--[if gt IE 8]> -->
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic">
+        <!-- <![endif]-->
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400">
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:700">
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400italic">
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:700italic">
+        <![endif]-->
+
+	<!-- HTML5 shim, Respond.js and ie9.js for IE8 support -->
+        <!-- WARNING: Must be in the <head> but *after* the CSS files -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="/js/ie8.js"></script>
+        <![endif]-->
+
+        <!-- nth-child() support for IE9 -->
+        <!--[if IE 9]>
+            <script src="/js/ie9.js"></script>
+        <![endif]-->
+
+        <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png">
+        <link rel="shortcut icon" href="/favicon.ico">
+	
+	
+<style type="text/css">
+
+.site-header-logo
+{
+	margin-right: 110px;
+}
+
+#breadcrumb
+{
+	display: none;
+}
+
+wbr:after { content: "\00200B"; }
+
+.slideshow .bx-pager-link
+{
+	outline: none;
+}
+
+.video16_9
+{
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.video16_9 iframe,
+.video16_9 object,
+.video16_9 embed
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+</style>
+
+
+
+<meta name="keywords" content="Department of Computer Science 404"/>
+<meta name="description" content="Department of Computer Science - page not found"/>
+
+<title>Page not found</title>
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	/**
+	**  Honour the "do not track" browser setting.
+	**/
+	if(typeof navigator.doNotTrack === "undefined" || (navigator.doNotTrack !== 'yes' && navigator.doNotTrack !== '1'))
+	{
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25164877-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	}
+  
+// ]]>
+</script>
+
+    </head>
+    <body>
+	<!-- ACCESSIBILITY LINKS -->
+        <a href="#maincontent" class="screen-reader-shortcut">Skip to main content</a>
+
+        <!-- COOKIES ALERT -->
+        <div class="cookies-alert-placeholder"></div>
+
+        <!-- PRINT HEADER -->
+        <div class="print-title">
+            University of Oxford Department of Computer Science
+        </div>
+
+        <!-- SITE HEADER -->
+        <header class="site-header">
+            <div class="site-header-content content-width clearfix">
+		<div class="site-header-logo clearfix">
+		    
+                        <!-- Keep the new line for Firefox / in case images are disabled (see CSS) -->
+                        <img src="/img/logo60green.png" alt="University of Oxford Department of Computer Science" class="img-responsive" usemap="#compscimap">
+			<map name="compscimap" id="compscimap">
+                                <area shape="rect" coords="0,0,110,110" href="http://www.ox.ac.uk/" alt="University of Oxford" title="University of Oxford"/>
+                                <area shape="rect" coords="130,0,322,109" href="/" alt="Department of Computer Science - Home" title="Department of Computer Science - Home"/>
+                        </map>			
+		    
+                </div>
+                <div class="site-header-icons">
+                    <a href="/aboutus/contact.html" class="btn btn-icon btn-header-icon" data-toggle="tooltip" data-placement="left" data-container=".site-header" title="Contact Us">
+                        <img src="/img/icon-mail.png" width="41" height="41" alt="&nbsp;&nbsp;Contact Us&nbsp;&nbsp;">
+                    </a>
+                    <a href="http://www.cs.ox.ac.uk/search/" class="btn btn-icon btn-header-icon site-header-search-toggle" data-toggle="tooltip" data-placement="left" data-container=".site-header" title="Search">
+                        <img src="/img/icon-search.png" width="41" height="41" alt="&nbsp;&nbsp;Search&nbsp;&nbsp;">
+                    </a>
+                </div>
+		<div class="site-header-search">
+                    
+		    <form action="//www.cs.ox.ac.uk/search/" method="get" class="site-header-search-form form-inline form-oxford-blue-on-white">
+                        <div class="form-group form-group-lg">
+                            <label for="site-search-term" class="control-label sr-only">Search for</label>
+                            <input id="site-search-term" name="q" type="text" class="form-control squared" size="25" placeholder="Enter search terms...">
+                        </div>
+                        <!-- This is the type selector, using radio buttons
+                        <div class="form-group form-group-lg site-header-search-type">
+                            <label class="radio-inline">
+                                <input type="radio" name="type" value="website" checked>
+                                Website
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="type" value="people">
+                                People
+                            </label>
+                        </div>
+                        -->
+                        <!-- This is an alternative - dropdown instead of radio buttons
+                        <div class="form-group form-group-lg">
+                            <label for="site-search-type" class="control-label no-bold">in</label>
+                            <select id="site-search-type" name="type" class="form-control squared">
+                                <option value="website">Website</option>
+                                <option value="people">People</option>
+                            </select>
+                        </div>
+                        -->
+                        <div class="form-group form-group-lg">
+                            <button type="submit" class="btn btn-oxford-blue btn-icon squared">
+                                <img src="/img/icon-search-white.png" alt="&nbsp;">
+                                <span class="btn-icon-text text-uppercase" style="padding-right: 11px;">Search</span>
+                            </button>
+                            <input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe">
+                            <input type="hidden" name="cof" value="FORID:11">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </header>
+
+        <!-- TOP NAVIGATION -->
+        <nav class="navbar navbar-default navbar-primary">
+            <div class="container-fluid content-width">
+
+                <div class="navbar-header">
+                    <button type="button" class="btn-block navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-top" aria-expanded="false">
+                        <span class="sr-only">Toggle</span>
+                        Main Menu
+                        <span class="icon">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-top">
+                    <ul class="nav navbar-nav">
+                        <li class="">
+                            <a href="/" class="text-uppercase">
+                                Home
+                                
+                            </a>
+                        </li>
+                        <li class="">
+                            <a href="/admissions/" class="text-uppercase">
+                                Admissions
+                                 
+                            </a>
+                        </li>
+                        <li class="">
+                            <a href="/research/" class="text-uppercase">
+                                Research
+                                
+                            </a>
+                        </li>
+			<li class="">
+                            <a href="/news-events/" class="text-uppercase">
+                                News &amp; Events
+                                
+                            </a>
+                        </li>
+                        <li class="">
+                            <a href="/aboutus/" class="text-uppercase">
+                                About Us
+                                 
+                            </a>
+                        </li>
+                        <li class="">
+                            <a href="/alumni/" class="text-uppercase">
+                                Alumni
+                                 
+                            </a>
+                        </li><span class="visible-md"></span><!-- Break line on md -->
+			<li class="">
+                            <a href="/ourstudents/index.html" class="text-uppercase">
+                                Our Students
+                                 
+                            </a>
+                        </li>
+			<li class="">
+                            <a href="/innovation/" class="text-uppercase">
+                                Innovation
+                                 
+                            </a>
+                        </li>
+                        <!-- <li class="disabled"><a>Disabled</a></li> -->
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+	
+
+
+
+<div id="content" >
+	<div class="container-fluid content-width">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 col-md-push-3">
+<h1>Page not found</h1>
+
+<p>Sorry, the page you've requested doesn't exist.  If you think there really should be a page here, please <a href="mailto:webmaster@cs.ox.ac.uk">contact the webmaster</a>, explaining how you got here and what you were hoping to find.</p>
+<p>Alternatively, you could try searching for the page you're after, using the search bar on the left hand side, or trawling our <a href="/sitemap.html">sitemap</a> where you'll hopefully find what you were looking for.</p>
+
+	</div>
+	</div>
+	</div>
+
+</div>
+
+
+        <!-- BACK TO TOP -->
+        <div class="container-fluid content-width back-to-top">
+            <div class="row">
+                <div class="col-sm-12">
+                    <a href="#" class="scroll-to-anchor"><i class="fa fa-chevron-up"></i> Back to Top</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="site-footer">
+            <div class="container-fluid content-width">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <nav class="site-footer-links" style="clear:all">
+                            <ul>
+                                <li><a href="/calendars.html">Calendars</a></li>
+                                <li><a href="http://intranet.cs.ox.ac.uk/home2/">Internal</a></li>
+                                <li><a href="/rssfeeds.html">RSS Feeds</a></li>
+                                <li><a href="/sitemap.html">Sitemap</a></li>
+                                <li><a href="/privacy-policy.html">Privacy &amp; Cookies</a></li>
+                                <!--<li><a href="#">Legal</a></li>-->
+                            </ul>
+                        </nav>
+                    </div>
+		    <div class="col-sm-4">
+		    	<center>
+				<img width="149" class="img-responsive" src="/images/newweb/AthenaSWANBronzeAward.png" style="background-color: white; padding: 10px">
+			</center>
+                    </div>
+		    <div class="col-sm-4">
+                        <aside class="site-footer-social clearfix">
+                            <ul>
+                                <li><a href="https://www.linkedin.com/company/department-of-computer-science-university-of-oxford" data-toggle="tooltip" data-placement="left" data-container=".site-footer" title="LinkedIn">
+                                    <img src="/img/icon-linkedin.png" alt="LinkedIn">
+                                </a></li>
+                                <li><a href="https://twitter.com/CompSciOxford" data-toggle="tooltip" data-placement="left" data-container=".site-footer" title="Twitter">
+                                    <img src="/img/icon-twitter.png" alt="Twitter">
+                                </a></li>
+                                <li><a href="https://www.facebook.com/DepartmentOfComputerScienceUniversityOfOxford" data-toggle="tooltip" data-placement="left" data-container=".site-footer" title="Facebook">
+                                    <img src="/img/icon-facebook.png" alt="Facebook">
+                                </a></li>
+                                <li><a href="https://www.flickr.com/photos/computerscienceoxford/" data-toggle="tooltip" data-placement="left" data-container=".site-footer" title="Flickr">
+                                    <img src="/img/icon-flickr.png" alt="Flickr">
+                                </a></li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+		
+		<div class="row">
+                    <div class="col-sm-12">
+                        <p class="site-footer-copyright">
+                            <small>&copy; <a href="http://www.ox.ac.uk/">University of Oxford</a> <script>document.write(new Date().getFullYear());</script></small>
+                        </p>
+                        <p class="site-footer-url">
+			    /404.html
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- SCRIPTS -->
+        <!-- Load scripts last for efficiency - https://developer.yahoo.com/performance/rules.html#js_bottom -->
+        <script src="/js/common.js?version=2"></script>
+	
+        <script type="text/javascript" src="/javascript/rss-newweb.js?version=9"></script>
+	<script type="text/javascript" src="/javascript/ical-newweb.js?version=3"></script>
+
+	<script src="/javascript/newweb_feeds.js?version=1"></script>
+
+	<script src="/javascript/share.js?version=1"></script>
+	
+	
+	
+	
+	
+    </body>
+</html>
+
+
